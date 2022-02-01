@@ -1,0 +1,170 @@
+{
+  "Vaults": [
+    {
+      "name": "Interest Bearing BNB",
+      "symbol": "iBNB",
+      "workers": [
+        {
+          "name": "BUSD-BNB BiswapWorker",
+          "address": "0x84404D10ADE32f62673b8f57aec2d8e17a8c9A40",
+          "pId": 3,
+          "stakingToken": "0xaCAac9311b0096E04Dfe96b6D87dec867d3883Dc",
+          "stakingTokenAt": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739"
+        },
+        {
+          "name": "USDT-BNB BiswapWorker",
+          "address": "0x069dDf764a5c468FF81bE7AC6F6b03077342e682",
+          "pId": 2,
+          "stakingToken": "0x8840C6252e2e86e545deFb6da98B2a0E26d8C1BA",
+          "stakingTokenAt": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739"
+        },
+        {
+          "name": "BTC-BNB BiswapWorker",
+          "address": "0xC03B5c5F1076D13bA77aA0E7a72374d60eE4eA1c",
+          "pId": 8,
+          "stakingToken": "0xC7e9d76ba11099AF3F330ff829c5F442d571e057",
+          "stakingTokenAt": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739"
+        },
+        {
+          "name": "BP-BNB CakeWorker",
+          "address": "0x59AeFFe122A75Ea95D89D77869921134794dc124",
+          "pId": 449,
+          "stakingToken": "0x2bF2dEB40639201C9A94c9e33b4852D9AEa5fd2D",
+          "stakingTokenAt": "0x73feaa1eE314F8c655E354234017bE2193C9E24E"
+        },
+        {
+          "name": "EPS-BNB CakeWorker",
+          "address": "0x31a6B4949bA998FD3EdC29bcCB14307034c84eF0",
+          "pId": 350,
+          "stakingToken": "0xddE420cbB3794ebD8FFC3Ac69F9c78e5d1411870",
+          "stakingTokenAt": "0x73feaa1eE314F8c655E354234017bE2193C9E24E"
+        },
+        {
+          "name": "MBOX-BNB CakeWorker",
+          "address": "0x86511ef02e4f69ce236F9EAa6729CDfde9d17Dd4",
+          "pId": 405,
+          "stakingToken": "0x8FA59693458289914dB0097F5F366d771B7a7C3F",
+          "stakingTokenAt": "0x73feaa1eE314F8c655E354234017bE2193C9E24E"
+        },
+        {
+          "name": "AXS-BNB CakeWorker",
+          "address": "0x7Fd92ab73ef9456A733C6E9A7aDCf93B2fbCe0C9",
+          "pId": 430,
+          "stakingToken": "0xC2d00De94795e60FB76Bc37d899170996cBdA436",
+          "stakingTokenAt": "0x73feaa1eE314F8c655E354234017bE2193C9E24E"
+        },
+        {
+          "name": "BTC-BNB CakeWorker",
+          "address": "0x20904c92304cAe9D20C48c6C44F9A7B7B7B38f42",
+          "pId": 262,
+          "stakingToken": "0x61EB789d75A95CAa3fF50ed7E47b96c132fEc082",
+          "stakingTokenAt": "0x73feaa1eE314F8c655E354234017bE2193C9E24E"
+        },
+        {
+          "name": "XVS-BNB CakeWorker",
+          "address": "0x12F6059a913082FE220bBBFDb45D37792911dC0B",
+          "pId": 260,
+          "stakingToken": "0x7EB5D86FD78f3852a3e0e064f2842d45a3dB6EA2",
+          "stakingTokenAt": "0x73feaa1eE314F8c655E354234017bE2193C9E24E"
+        },
+        {
+          "name": "CAKE-BNB CakeWorker",
+          "address": "0xc18208aA9cDe27823a69c25d46AF3F8274Eb2e7c",
+          "pId": 251,
+          "stakingToken": "0x0eD7e52944161450477ee417DE9Cd3a859b14fD0",
+          "stakingTokenAt": "0x73feaa1eE314F8c655E354234017bE2193C9E24E"
+        },
+        {
+          "name": "BUSD-BNB CakeWorker",
+          "address": "0x8603F340F847B10641f78c992b443c2094e9d9B3",
+          "pId": 252,
+          "stakingToken": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16",
+          "stakingTokenAt": "0x73feaa1eE314F8c655E354234017bE2193C9E24E"
+        },
+        {
+          "name": "BUNNY-BNB CakeWorker",
+          "address": "0x06FB7510682a06C4c155be4456F3C166473F6587",
+          "pId": 323,
+          "stakingToken": "0x5aFEf8567414F29f0f927A0F2787b188624c10E2",
+          "stakingTokenAt": "0x73feaa1eE314F8c655E354234017bE2193C9E24E"
+        }
+      ]
+    },
+    {
+      "name": "Interest Bearing BUSD",
+      "symbol": "iBUSD",
+      "workers": [
+        {
+          "name": "BUSD-USDT WexWorker",
+          "address": "0x1b67632ed7015BE39CcB7634fff935D1557a2e05",
+          "pId": 14,
+          "stakingToken": "0x9Ce20a5169A3CD64A98C2C200aA995A2d8c8830e",
+          "stakingTokenAt": "0x22fB2663C7ca71Adc2cc99481C77Aaf21E152e2D"
+        },
+        {
+          "name": "BUSD-BTC WexWorker",
+          "address": "0x791eB61143E191D49E4BC9329eD3BE176472d44E",
+          "pId": 8,
+          "stakingToken": "0x61Ad21f79D1Bf96206Ad28d97B15D98a55944a2a",
+          "stakingTokenAt": "0x22fB2663C7ca71Adc2cc99481C77Aaf21E152e2D"
+        },
+        {
+          "name": "BUSD-ETH WexWorker",
+          "address": "0x81b73f9C3Ba981574B75b4937888D9d0acBF4A3a",
+          "pId": 11,
+          "stakingToken": "0x40a2739d8B2CDDd5EDB8B563BA8e4c3326e23716",
+          "stakingTokenAt": "0x22fB2663C7ca71Adc2cc99481C77Aaf21E152e2D"
+        },
+        {
+          "name": "BUSD-WUSD WexWorker",
+          "address": "0xF794B809bfef77deaab54ACE67fBAFbC04BB63c9",
+          "pId": 58,
+          "stakingToken": "0x6102D8A7C963F78D46a35a6218B0DB4845d1612F",
+          "stakingTokenAt": "0x22fB2663C7ca71Adc2cc99481C77Aaf21E152e2D"
+        },
+        {
+          "name": "BUSD-USDT BiswapWorker",
+          "address": "0xC54CC4Ee556f30DE0255f22c667aE8EE8028C3bE",
+          "pId": 1,
+          "stakingToken": "0xDA8ceb724A06819c0A5cDb4304ea0cB27F8304cF",
+          "stakingTokenAt": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739"
+        },
+        {
+          "name": "CHR-BUSD CakeWorker",
+          "address": "0xa40C13db42a8073902A8f75cA3d4F81Dd20674c8",
+          "pId": 390,
+          "stakingToken": "0x6045931e511ef7e53a4a817f971e0ca28c758809",
+          "stakingTokenAt": "0x73feaa1eE314F8c655E354234017bE2193C9E24E"
+        },
+        {
+          "name": "BUSD-USDT CakeWorker",
+          "address": "0x3166Ee07F483c71Fe96F7CccB9Da2ecF9B32cEf6",
+          "pId": 258,
+          "stakingToken": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00",
+          "stakingTokenAt": "0x73feaa1eE314F8c655E354234017bE2193C9E24E"
+        },
+        {
+          "name": "USDC-BUSD CakeWorker",
+          "address": "0xA8a70498559c03247Caf1A8d722CF14E2Ea356e2",
+          "pId": 283,
+          "stakingToken": "0x2354ef4DF11afacb85a5C7f98B624072ECcddbB1",
+          "stakingTokenAt": "0x73feaa1eE314F8c655E354234017bE2193C9E24E"
+        },
+        {
+          "name": "UST-BUSD CakeWorker",
+          "address": "0xC0974EF6116B9e5f4DAA303dCf71f4A55b38DA1b",
+          "pId": 293,
+          "stakingToken": "0x05faf555522Fa3F93959F86B41A3808666093210",
+          "stakingTokenAt": "0x73feaa1eE314F8c655E354234017bE2193C9E24E"
+        },
+        {
+          "name": "TUSD-BUSD CakeWorker",
+          "address": "0x60Cdd0F83cE95a4aC1AafeF376676274f5caa59D",
+          "pId": 397,
+          "stakingToken": "0x2e28b9b74d6d99d4697e913b82b41ef1cac51c6c",
+          "stakingTokenAt": "0x73feaa1eE314F8c655E354234017bE2193C9E24E"
+        }
+      ]
+    }
+  ]
+}

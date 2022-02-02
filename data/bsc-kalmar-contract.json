@@ -3,17 +3,20 @@
       {
           "name": "Kalm Staking",
           "address": "0x557d49B7c30A0ae651097806846F4145feE366b5",
-          "stakingToken": "0x4BA0057f784858a48fe351445C672FF2a3d43515"
+          "stakingToken": "0x4BA0057f784858a48fe351445C672FF2a3d43515",
+          "baseToken": "0x4BA0057f784858a48fe351445C672FF2a3d43515"
       },
       {
           "name": "iBNB Staking",
           "address": "0x72f6A431dD4522Bc1cef2e472365352C98f6e275",
-          "stakingToken": "0x56979AF35ddBCE14F5DBBa1571CaFb9A35D48401"
+          "stakingToken": "0x56979AF35ddBCE14F5DBBa1571CaFb9A35D48401",
+          "baseToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
       },
       {
           "name": "iBUSD Staking",
           "address": "0xD3E7140AA574912c08FC2A78218cFf93BEE4837a",
-          "stakingToken": "0xef5C873494902Ce586beD6D515129492Cc65e8ae"
+          "stakingToken": "0xef5C873494902Ce586beD6D515129492Cc65e8ae",
+          "baseToken": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
       }
   ],
   "Vaults": [

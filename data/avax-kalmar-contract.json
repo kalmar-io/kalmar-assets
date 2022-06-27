@@ -11,6 +11,13 @@
       "stakingTokenAt": "0x9B463e8e8681f0452Ab73710F5661ec5Df2C4bF4"
     }
   ],
-  "Staking": [],
+  "Staking": [
+    {
+      "name": "Kalm Staking",
+      "address": "0xa6b6B178D8A8B488524c594AEEc38FEB11d816Ac",
+      "stakingToken": "0x62AceEA3e666C5706Ce1c61055fAc1A669d31D93",
+      "baseToken": "0x62AceEA3e666C5706Ce1c61055fAc1A669d31D93"
+    }
+  ],
   "Vaults": []
 }

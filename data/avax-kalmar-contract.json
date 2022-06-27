@@ -1,0 +1,16 @@
+{
+  "Liquidity": [
+    {
+      "name": "KALM-AVAX LP",
+      "stakingToken": "0xD86FF5345A7043483439bCD06B36d79a5b01f7cE",
+      "stakingTokenAt": "0x3850EF1aD6E24c63A2Ad7c543ED24101b8f7bCfc"
+    },
+    {
+      "name": "KALM-USDC LP",
+      "stakingToken": "0xfc9ba2077e95c7aa078484e5b86f312d0e41f44b",
+      "stakingTokenAt": "0x9B463e8e8681f0452Ab73710F5661ec5Df2C4bF4"
+    }
+  ],
+  "Staking": [],
+  "Vaults": []
+}

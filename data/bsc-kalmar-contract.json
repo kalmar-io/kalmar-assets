@@ -39,6 +39,153 @@
       "baseToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "workers": [
         {
+          "name": "GAL-BNB CakeWorker",
+          "address": "0x60Cfb038537857eaf6B2B30c8dDDB5753e4Ce00F",
+          "pId": 98,
+          "stakingToken": "0xbe6A4f74fdDc88853612C50D7404E059b37692D8",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "DOGE-BNB CakeWorker",
+          "address": "0xd1387ECdB49d8d389ed73aa204e598dD17BCd629",
+          "pId": 37,
+          "stakingToken": "0xac109C8025F272414fd9e2faA805a583708A017f",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "ALICE-BNB CakeWorker",
+          "address": "0xc9fF321453ad8d66e4927378FFe2fC183Ae4570E",
+          "pId": 30,
+          "stakingToken": "0xcAD7019D6d84a3294b0494aEF02e73BD0f2572Eb",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "BIFI-BNB CakeWorker",
+          "address": "0xb02C6cCf653EEa6Ea8fE774AaBC39cB74b256054",
+          "pId": 31,
+          "stakingToken": "0x3f1A9f3D9aaD8bD339eD4853F345d2eF89fbfE0c",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "ERA-BNB CakeWorker",
+          "address": "0x68F152aA27A9584a55cba54C8c0E757D50fbea24",
+          "pId": 84,
+          "stakingToken": "0x53a63ac301D6410915385294527f947aFf616599",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "ADA-BNB BiswapWorker",
+          "address": "0x4e05b0671f4eFB0516ceEb9eEf86988c41119C57",
+          "pId": 16,
+          "stakingToken": "0x8860922Eb2795aB0D57363653Dd7EBf18D7c0A42",
+          "stakingTokenAt": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739"
+        },
+        {
+          "name": "UNI-BNB BiswapWorker",
+          "address": "0xda4D089F0926814DC617C024e2b0aDB9836323d0",
+          "pId": 15,
+          "stakingToken": "0x153dC2eBcB551799b13D4E6Ff84fC34C7AEDf241",
+          "stakingTokenAt": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739"
+        },
+        {
+          "name": "XRP-BNB BiswapWorker",
+          "address": "0xc0184f23c1c8Dd23C5A1D01bE91C78C03f501124",
+          "pId": 21,
+          "stakingToken": "0x5dc30Bb8D7F02eFEf28f7E637D17Aea13Fa96906",
+          "stakingTokenAt": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739"
+        },
+        {
+          "name": "LINK-BNB BiswapWorker",
+          "address": "0x848c2c535d8Bb072de96191860e55F5be38884c9",
+          "pId": 23,
+          "stakingToken": "0x16Fe21c91c426E603977b1C6EcD59Fc510a518C2",
+          "stakingTokenAt": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739"
+        },
+        {
+          "name": "BSW-BNB BiswapWorker",
+          "address": "0x629b10E2BdbDaa5f220615272D279fb28721Ba4c",
+          "pId": 10,
+          "stakingToken": "0x46492B26639Df0cda9b2769429845cb991591E0A",
+          "stakingTokenAt": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739"
+        },
+        {
+          "name": "ALPHA-BNB BiswapWorker",
+          "address": "0x87A67D3C03da52AC727F31e5f4F1DcD84C2B5F14",
+          "pId": 43,
+          "stakingToken": "0x5ea2efFB38a84Fb95e7B7713f0c10BDA99b25A9F",
+          "stakingTokenAt": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739"
+        },
+        {
+          "name": "DAR-BNB BiswapWorker",
+          "address": "0xC7E3C88c0ee12a63Af86056764632420D13aa7D7",
+          "pId": 65,
+          "stakingToken": "0x062f88E2B4896e823ac78Ac314468c29eEC4186d",
+          "stakingTokenAt": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739"
+        },
+        {
+          "name": "SFP-BNB BiswapWorker",
+          "address": "0x982e9Bc7D9C89E1070928a28A56E10a5DE2276EC",
+          "pId": 37,
+          "stakingToken": "0x857f601Df3Eac2f25E25dBd2B33D94bCd6F47d1C",
+          "stakingTokenAt": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739"
+        },
+        {
+          "name": "BP-BNB CakeWorker",
+          "address": "0x1930E4f73DEFaCF48fDBe9217a7C7C0bBC514CD1",
+          "pId": 58,
+          "stakingToken": "0x2bF2dEB40639201C9A94c9e33b4852D9AEa5fd2D",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "EPS-BNB CakeWorker",
+          "address": "0x1859F30a7DEBea8BD3Ea376b454ab7Dfe610A556",
+          "pId": 33,
+          "stakingToken": "0xddE420cbB3794ebD8FFC3Ac69F9c78e5d1411870",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "MBOX-BNB CakeWorker",
+          "address": "0x4f62C776C1592Fb834D9f6c0d129162ab370F00D",
+          "pId": 42,
+          "stakingToken": "0x8FA59693458289914dB0097F5F366d771B7a7C3F",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "AXS-BNB CakeWorker",
+          "address": "0x21dF5431EfD2167BE8E3830fd159ADfB2a978B6e",
+          "pId": 52,
+          "stakingToken": "0xC2d00De94795e60FB76Bc37d899170996cBdA436",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "BTC-BNB CakeWorker",
+          "address": "0xEA8E1424D19665e28Abe9Cc4dee288F14D11D002",
+          "pId": 11,
+          "stakingToken": "0x61EB789d75A95CAa3fF50ed7E47b96c132fEc082",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "XVS-BNB CakeWorker",
+          "address": "0x7A97afeeb740Eb5977466E78B0acce92F09Cd1Da",
+          "pId": 9,
+          "stakingToken": "0x7EB5D86FD78f3852a3e0e064f2842d45a3dB6EA2",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "CAKE-BNB CakeWorker",
+          "address": "0xb90d502dD39E9dEdEA434736892D2DD5E72E0b77",
+          "pId": 2,
+          "stakingToken": "0x0eD7e52944161450477ee417DE9Cd3a859b14fD0",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "BUSD-BNB CakeWorker",
+          "address": "0xe37Ca29BDd1f56464CEA02789fA025C7f66D9e92",
+          "pId": 3,
+          "stakingToken": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
           "name": "BUSD-BNB BiswapWorker",
           "address": "0x84404D10ADE32f62673b8f57aec2d8e17a8c9A40",
           "pId": 3,
@@ -130,6 +277,76 @@
       "address": "0xef5C873494902Ce586beD6D515129492Cc65e8ae",
       "baseToken": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "workers": [
+        {
+          "name": "SDAO-BUSD CakeWorker",
+          "address": "0x6BEBD6F8785ec8872dF297584349ac8DBe3e1b01",
+          "pId": 105,
+          "stakingToken": "0x3d12E4381901a6b94438758B90881cB03F10b01E",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "HIGH-BUSD CakeWorker",
+          "address": "0x5B01A24406200AFfa1C83746f18ef90c870D3465",
+          "pId": 73,
+          "stakingToken": "0xe98ac95A1dB2fCaaa9c7D4ba7ecfCE4877ca2bEa",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "RACA-BUSD CakeWorker",
+          "address": "0xB5C2dD73A9107dB93621277F7FdBf754D75B9016",
+          "pId": 81,
+          "stakingToken": "0x8e744Ec2795c8B836689d1b4EBE1489204357dAC",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "CAKE-BUSD CakeWorker",
+          "address": "0xf24bE103d47044a3D3cC166F2DD17C1531DCFf26",
+          "pId": 39,
+          "stakingToken": "0x804678fa97d91B974ec2af3c843270886528a9E6",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "ALPACA-BUSD CakeWorker",
+          "address": "0x46185D4d86149a786B5A0d08CA99bf42968aA21D",
+          "pId": 35,
+          "stakingToken": "0x7752e1FA9F3a2e860856458517008558DEb989e3",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "USDT-BUSD CakeWorker",
+          "address": "0xcb67b104e4753f62b607d9f0f2449f7e3ecb7b3a",
+          "pId": 7,
+          "stakingToken": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "USDC-BUSD CakeWorker",
+          "address": "0xe431efb35e946f03a0677ea42f1ae466be097ade",
+          "pId": 20,
+          "stakingToken": "0x2354ef4DF11afacb85a5C7f98B624072ECcddbB1",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "TUSD-BUSD CakeWorker",
+          "address": "0x5b6B264642bf38d7E67DABb5aD0fCCbff46BD398",
+          "pId": 41,
+          "stakingToken": "0x2e28b9b74d6d99d4697e913b82b41ef1cac51c6c",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "CHR-BUSD CakeWorker",
+          "address": "0x41c5eb2530E36254A11a8a2E6640F85791f31694",
+          "pId": 40,
+          "stakingToken": "0x6045931e511ef7e53a4a817f971e0ca28c758809",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "BUSD-USDT BiswapWorker",
+          "address": "0xC54CC4Ee556f30DE0255f22c667aE8EE8028C3bE",
+          "pId": 1,
+          "stakingToken": "0xDA8ceb724A06819c0A5cDb4304ea0cB27F8304cF",
+          "stakingTokenAt": "0xDbc1A13490deeF9c3C12b44FE77b503c1B061739"
+        },
         {
           "name": "BUSD-USDT WexWorker",
           "address": "0x1b67632ed7015BE39CcB7634fff935D1557a2e05",

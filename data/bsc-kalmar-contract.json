@@ -13,18 +13,6 @@
   ],
   "Staking": [
     {
-      "name": "Kalm LockStaking",
-      "address": "0xB65c3C0B10de94EaCf5981823a3f2F5850130682",
-      "stakingToken": "0x4BA0057f784858a48fe351445C672FF2a3d43515",
-      "baseToken": "0x4BA0057f784858a48fe351445C672FF2a3d43515"
-    },
-    {
-      "name": "Kalm BoostStaking",
-      "address": "0xa4D1063AD5dC92fb1D4c0e866C21d5a9Ca16094C",
-      "stakingToken": "0x4BA0057f784858a48fe351445C672FF2a3d43515",
-      "baseToken": "0x4BA0057f784858a48fe351445C672FF2a3d43515"
-    },
-    {
       "name": "Kalm Staking",
       "address": "0x557d49B7c30A0ae651097806846F4145feE366b5",
       "stakingToken": "0x4BA0057f784858a48fe351445C672FF2a3d43515",

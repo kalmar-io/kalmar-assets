@@ -290,6 +290,20 @@
       "baseToken": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "workers": [
         {
+          "name": "WOM-BUSD CakeWorker",
+          "address": "0x5471529c3A0a999237870e82b6F9Ec14E7c2D020",
+          "pId": 116,
+          "stakingToken": "0xe68D05418A8d7969D9CA6761ad46F449629d928c",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
+          "name": "HAY-BUSD CakeWorker",
+          "address": "0x9E0F57493712C3Def421Ea5B23de1d2f05Fc369C",
+          "pId": 115,
+          "stakingToken": "0x70c26e9805ec5Df3d4aB0b2a3dF86BBA2231B6c1",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
           "name": "SDAO-BUSD CakeWorker",
           "address": "0x6BEBD6F8785ec8872dF297584349ac8DBe3e1b01",
           "pId": 105,

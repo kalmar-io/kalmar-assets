@@ -51,6 +51,13 @@
       "baseToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "workers": [
         {
+          "name": "ABNBC-BNB CakeWorker",
+          "address": "0x6e577cF6416E99219A440BDb102439A5af0d841e",
+          "pId": 95,
+          "stakingToken": "0x272c2CF847A49215A3A1D4bFf8760E503A06f880",
+          "stakingTokenAt": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652"
+        },
+        {
           "name": "GAL-BNB CakeWorker",
           "address": "0x60Cfb038537857eaf6B2B30c8dDDB5753e4Ce00F",
           "pId": 98,

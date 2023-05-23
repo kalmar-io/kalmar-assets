@@ -1,14 +1,24 @@
 {
   "Liquidity": [
     {
-      "name": "KALM-FTM LP",
+      "name": "KALM-FTM LP OLD",
       "stakingToken": "0x0a96b04234481961a5a02dd57059b323e0d4e45d",
       "stakingTokenAt": "0x8198825878cCdCFBb6AC8A46e52fFb7F01dA410E"
     },
     {
-      "name": "KALM-USDC LP",
+      "name": "KALM-USDC LP OLD",
       "stakingToken": "0x6c43ca3c4f26d02e85d1301fd0efa64139ae5b0e",
       "stakingTokenAt": "0x3147aBA20c43696fEe3ef00ca32e22c137D67C07"
+    },
+    {
+      "name": "KALM-FTM LP",
+      "stakingToken": "0x0a96b04234481961a5a02dd57059b323e0d4e45d",
+      "stakingTokenAt": "0xA3786F770ef7136AfC1f428fdc727daAb3A6Ca5C"
+    },
+    {
+      "name": "KALM-USDC LP",
+      "stakingToken": "0x6c43ca3c4f26d02e85d1301fd0efa64139ae5b0e",
+      "stakingTokenAt": "0xC3586A71d977055629861ABaCA3aEe121f299aF7"
     }
   ],
   "Staking": [

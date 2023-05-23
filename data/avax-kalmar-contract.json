@@ -1,14 +1,24 @@
 {
   "Liquidity": [
     {
-      "name": "KALM-AVAX LP",
+      "name": "KALM-AVAX LP OLD",
       "stakingToken": "0xD86FF5345A7043483439bCD06B36d79a5b01f7cE",
       "stakingTokenAt": "0x3850EF1aD6E24c63A2Ad7c543ED24101b8f7bCfc"
     },
     {
-      "name": "KALM-USDC LP",
-      "stakingToken": "0xfc9ba2077e95c7aa078484e5b86f312d0e41f44b",
+      "name": "KALM-USDC LP OLD",
+      "stakingToken": "0xFc9Ba2077e95c7aA078484E5b86F312D0E41F44b",
       "stakingTokenAt": "0x9B463e8e8681f0452Ab73710F5661ec5Df2C4bF4"
+    },
+    {
+      "name": "KALM-AVAX LP",
+      "stakingToken": "0xD86FF5345A7043483439bCD06B36d79a5b01f7cE",
+      "stakingTokenAt": "0x2bd62A693417Bde72372b44BD34795689c85DDCc"
+    },
+    {
+      "name": "KALM-USDC LP",
+      "stakingToken": "0xFc9Ba2077e95c7aA078484E5b86F312D0E41F44b",
+      "stakingTokenAt": "0xE1AF95B988B961100F5c9889A18fcf0126388b42"
     }
   ],
   "Staking": [
